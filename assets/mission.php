@@ -31,7 +31,7 @@
             </div>
             </article>
         </div>
-    </div>>
+    </div>
 </div>
 <?php
     include $path."assets/inc/footer.php";

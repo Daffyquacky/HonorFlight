@@ -48,7 +48,7 @@
               <a class="navbar-item">
                 User Information
               </a>
-              <a class="navbar-item">
+              <a class="navbar-item" href="<?php echo $path; ?>assets/vet-info.php">
                 Veteran Information
               </a>
             </div>

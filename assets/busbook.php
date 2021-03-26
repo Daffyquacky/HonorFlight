@@ -16,7 +16,7 @@ h1 {
 
   #mainContainer{
     margin-top: 10px;
-    padding: 15px; 
+    padding: 15px;
     height: 1000px;
     min-width: 200px; 
     background-color: grey;
@@ -26,7 +26,8 @@ h1 {
   #viewerContainer {
     margin: auto;
     width: 90%;
-    padding: 10px;
+    height: 1000px;
+    padding: auto;
   }
 
   object {
